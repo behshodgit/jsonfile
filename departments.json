@@ -1,0 +1,7 @@
+{
+    "departments": {
+      "Marketing": ["Ali", "Lola"],
+      "IT": ["Diyor", "Zafar", "Muhammad"],
+      "HR": ["Aziza"]
+    }
+  }

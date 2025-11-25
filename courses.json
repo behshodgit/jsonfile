@@ -1,0 +1,12 @@
+{
+    "courses": {
+      "Python": [
+        {"name": "Alisher", "grade": 90},
+        {"name": "Diyor", "grade": 85}
+      ],
+      "HTML": [
+        {"name": "Madina", "grade": 78},
+        {"name": "Shoxrux", "grade": 82}
+      ]
+    }
+  }

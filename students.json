@@ -1,0 +1,6 @@
+{
+    "students": [
+      {"name": "Sardor", "grades": [90, 85, 80]},
+      {"name": "Gulnoza", "grades": [100, 95, 98]}
+    ]
+  }

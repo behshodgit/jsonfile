@@ -1,0 +1,7 @@
+{
+    "products": [
+      {"name": "Noutbuk", "price": 8000000},
+      {"name": "Monitor", "price": 2500000},
+      {"name": "Printer", "price": 1200000}
+    ]
+  }

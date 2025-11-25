@@ -1,0 +1,7 @@
+{
+    "users": [
+      {"name": "Ziyod", "social": ["Telegram"]},
+      {"name": "Nilufar", "social": ["Instagram", "Telegram"]},
+      {"name": "Bobur", "social": ["Facebook", "LinkedIn", "Telegram"]}
+    ]
+  }

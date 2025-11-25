@@ -1,0 +1,7 @@
+{
+    "sales": [
+      {"month": "January", "amount": 1000},
+      {"month": "January", "amount": 500},
+      {"month": "February", "amount": 1200}
+    ]
+  }
